@@ -15,7 +15,7 @@ Ordenação de livros em estantes em C.
 gcc main.c library.c -o m
 
 # Para executar o programa: 
-./m < "alguns dos inputs do repositório"
+./m < `alguns dos inputs txt do repositório`
 
 # Instruções de uso para Linux
 
