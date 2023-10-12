@@ -1,0 +1,105 @@
+1
+A Ilha dos Tesouros Perdidos
+14
+25
+
+1
+O Labirinto da Mente
+13
+13
+
+1
+Coração de Pedra
+12
+18
+
+1
+A Sombra do Passado
+15
+21
+
+1
+No Limiar da Eternidade
+11
+17
+
+1
+O Segredo das Estrelas
+16
+22
+
+1
+A Dança das Borboletas
+10
+16
+
+1
+A Passagem Secreta
+14
+23
+
+1
+A Bruxa do Bosque
+12
+18
+
+1
+O Mistério da Mansão Abandonada
+15
+21
+
+1
+O Tesouro do Pirata Fantasma
+13
+11
+
+1
+O Enigma da Esfinge
+11
+17
+
+1
+A Cidade das Sombras
+16
+22
+
+1
+O Véu da Noite
+10
+16
+
+1
+A Fuga do Labirinto
+14
+20
+
+1
+O Segredo das Marés
+12
+18
+
+1
+A Ultima Canção
+15
+15
+
+1
+O Jardim das Memórias
+13
+19
+
+1
+O Tesouro Perdido do Farol
+11
+17
+
+1
+A Porta para Outro Mundo
+16
+19
+
+3
+
+6
+
+0
