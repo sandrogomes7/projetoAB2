@@ -9,15 +9,16 @@ Ordenação de livros em estantes em C.
 
 - Ordem alfabética por nome
 - Ordem alfabética por letra e altura do livro
+  
 
-Para compilar o programa: 
+# Para compilar o programa: 
 gcc main.c library.c -o m
 
-Para execultar o programa: 
+# Para executar o programa: 
 ./m < "alguns dos inputs do repositório"
 
-*Instruções de uso para Linux
+# Instruções de uso para Linux
 
-Para o uso geral com inserção individual dos livros utilizar o arquivo: "codProjectCompleto.c"
+Para o uso geral com inserção individual dos livros utilizar o arquivo: `codProjectCompleto.c`
 
 
